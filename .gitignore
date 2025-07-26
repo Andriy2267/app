@@ -4,6 +4,6 @@ __pycache__/
 
 .vscode
 .idea
-
+fixtures/
 db.sqlite3
 media/
